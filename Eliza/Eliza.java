@@ -10,6 +10,7 @@ class Eliza {
         } else if ( args[1].equals("bad") ) {
             System.out.println("I am sorry to hear that you are not well.");
         } else if ( args[1].equals("miserable") ) {
+            System.out.println("Sorry to hear that! Here's a joke to cheer you up:");
             System.out.println("What do you call a square that's been in a car crash?");
             System.out.println("... a WRECK-tangle!");
         } else {
