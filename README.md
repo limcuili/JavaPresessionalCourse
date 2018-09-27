@@ -1,4 +1,4 @@
-# JavaPresessionalCourse
+# JavaPresessionalCourse1
 *Wed 26 Sept 2018 @ LSE*  
 *A Pre-sessional Java course for the module MA407 Algorithms and Computation*
 
